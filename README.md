@@ -7,3 +7,5 @@ Module 4: Program that computes arrangements of multisets given number of subset
 Module 5: Program that prints Pascal's Triangle given input of number of rows.
 
 Module 7: Lottery game program. Calculates probability of winning game given user input total number of numbers and number of bets placed.
+
+Project_7: Created a Python program to perform the Quick Select algorithm and for an array of n elements it should find the k-th smallest element of the array.
