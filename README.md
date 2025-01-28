@@ -1,5 +1,7 @@
 Contains projects demonstrating familiarity with Python.
 
+Module 8 Project 8: Folder that contains program that functions as a bank account management system that create bank accounts, deposit funds withdraw funds, check the account balance and perform transfers between accounts. 
+
 Module 1: Calculates what year you were born.
 
 Module 4: Program that computes arrangements of multisets given number of subsets, size of each subsets and total number of arrangements.
