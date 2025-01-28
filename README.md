@@ -1,6 +1,7 @@
 Contains projects demonstrating familiarity with Python.
 
-Module 8 Project 8: Folder that contains program that functions as a bank account management system that create bank accounts, deposit funds withdraw funds, check the account balance and perform transfers between accounts. 
+Module 8 Project 8: Folder that contains program (ayriyan8.py) that functions as a bank account management system that create bank accounts, deposit funds withdraw funds, check the account balance and perform transfers between accounts. 
+- Also contains written algorithm (Module 8 Final Project Algorithm), outlining steps taken to construct program. 
 
 Module 1: Calculates what year you were born.
 
