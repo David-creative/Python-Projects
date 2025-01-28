@@ -1,16 +1,25 @@
-Contains projects demonstrating familiarity with Python.
+# Python Projects Repository
 
-Module 8 Project 8: Folder that contains program (ayriyan8.py) that functions as a bank account management system that create bank accounts, deposit funds withdraw funds, check the account balance and perform transfers between accounts. 
-- Also contains written algorithm (Module 8 Final Project Algorithm), outlining steps taken to construct program. 
+This repository contains Python projects demonstrating familiarity with various programming concepts, algorithms, and applications.
 
-Module 1: Calculates what year you were born.
+## **Module 8: Project 8**
+- **Program (`ayriyan8.py`)**: A bank account management system to create accounts, deposit/withdraw funds, check balances, and transfer funds between accounts.
+- **Algorithm Document (`Module 8 Final Project Algorithm`)**: A written outline of the steps used to construct the program.
 
-Module 4: Program that computes arrangements of multisets given number of subsets, size of each subsets and total number of arrangements.
+## **Module 1**
+- Program to calculate the year of birth based on user input.
 
-Module 5: Program that prints Pascal's Triangle given input of number of rows.
+## **Module 4**
+- Computes arrangements of multisets given the number of subsets, sizes of subsets, and total arrangements.
 
-Module 7: Lottery game program. Calculates probability of winning game given user input total number of numbers and number of bets placed.
+## **Module 5**
+- Prints Pascal's Triangle for a specified number of rows.
 
-Project_3: Created a Python program that computes the "Tribonacci" sequence numbers; giving the number that is the sum of the three previous ones within the array.
+## **Module 7**
+- Lottery game program that calculates the probability of winning based on total numbers and bets placed.
 
-Project_7: Created a Python program to perform the Quick Select algorithm and for an array of n elements it should find the k-th smallest element of the array.
+## **Project 3**
+- Computes the Tribonacci sequence, where each number is the sum of the previous three in the sequence.
+
+## **Project 7**
+- Implements the Quick Select algorithm to find the k-th smallest element in an array of `n` elements.
