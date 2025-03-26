@@ -15,7 +15,7 @@ This repository contains Python projects demonstrating familiarity with various 
 ## **pascals_triangle**
 - Prints Pascal's Triangle for a specified number of rows.
 
-## **Module 7**
+## **lottery_probability**
 - Lottery game program that calculates the probability of winning based on total numbers and bets placed.
 
 ## **Project 3**
