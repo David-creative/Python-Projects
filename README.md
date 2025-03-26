@@ -2,9 +2,9 @@
 
 This repository contains Python projects demonstrating familiarity with various programming concepts, algorithms, and applications.
 
-## **Module 8: Project 8**
-- **Program (`ayriyan8.py`)**: A bank account management system to create accounts, deposit/withdraw funds, check balances, and transfer funds between accounts.
-- **Algorithm Document (`Module 8 Final Project Algorithm`)**: A written outline of the steps used to construct the program.
+## **Bank Account Management**
+- **Program (`bank_operations.py`)**: A bank account management system to create accounts, deposit/withdraw funds, check balances, and transfer funds between accounts.
+- **Algorithm Document (`Bank Operations Algorithm`)**: A written outline of the steps used to construct the program.
 
 ## **Birth Year Calculator**
 - Program to calculate the year of birth based on user input.
