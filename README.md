@@ -9,7 +9,7 @@ This repository contains Python projects demonstrating familiarity with various 
 ## **Birth Year Calculator**
 - Program to calculate the year of birth based on user input.
 
-## **Module 4**
+## **multiset_arrangements**
 - Computes arrangements of multisets given the number of subsets, sizes of subsets, and total arrangements.
 
 ## **Module 5**
