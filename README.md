@@ -12,7 +12,7 @@ This repository contains Python projects demonstrating familiarity with various 
 ## **multiset_arrangements**
 - Computes arrangements of multisets given the number of subsets, sizes of subsets, and total arrangements.
 
-## **Module 5**
+## **pascals_triangle**
 - Prints Pascal's Triangle for a specified number of rows.
 
 ## **Module 7**
