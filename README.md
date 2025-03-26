@@ -18,7 +18,7 @@ This repository contains Python projects demonstrating familiarity with various 
 ## **lottery_probability**
 - Lottery game program that calculates the probability of winning based on total numbers and bets placed.
 
-## **Project 3**
+## **tribonacci_generator**
 - Computes the Tribonacci sequence, where each number is the sum of the previous three in the sequence.
 
 ## **Project 7**
