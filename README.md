@@ -21,5 +21,5 @@ This repository contains Python projects demonstrating familiarity with various 
 ## **tribonacci_generator**
 - Computes the Tribonacci sequence, where each number is the sum of the previous three in the sequence.
 
-## **Project 7**
+## **quick_select**
 - Implements the Quick Select algorithm to find the k-th smallest element in an array of `n` elements.
